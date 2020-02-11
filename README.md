@@ -91,7 +91,7 @@ Para rotas autenticadas é preciso enviar o Bearer Token através do HEADER rece
     ```
 
 - Atualização: `PUT /customer`
-	- Deleta o usuário do cadastro do sistema.
+	- Atualiza os dados do usuário no sistema.
 	- Rota autenticada.
 
 	 Body:
